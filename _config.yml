@@ -12,7 +12,7 @@ github_repo: "https://github.com/geekrandy/geekrandy.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "求知若饥，谦卑若愚"
-sidebar-avatar: /img/geek_randy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/geek_randy.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
