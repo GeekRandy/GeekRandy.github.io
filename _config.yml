@@ -106,6 +106,12 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "camnter",
+        href: "https://www.camnter.com/"
+    },{
+        title: "dim",
+        href: "https://dim.red/"
     }
 ]
 
